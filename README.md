@@ -2,7 +2,8 @@
 <h3 align="center">Software Engineer | Python & Ruby Developer | Open Source Contributor</h3>
 
 ---
-
+<p align="center"><em>“✨ I’m not just writing code — I’m building things that last, tools that help, and features people rely on.”</em></p>
+---
 ### 🙋‍♀️ About Me
 
 - 💼 Software Engineer at Red Hat
@@ -17,8 +18,6 @@
 
 - [LinkedIn](https://www.linkedin.com/in/anushka-shukla003/)
 
-
-✨ _"I’m not just writing code — I’m building things that last, tools that help, and features people rely on."_
 
 <!--
 **anusshukla/anusshukla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
