@@ -1,10 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Anushka Shukla</h1>
 <h3 align="center">Software Engineer | Python & Ruby Developer | Open Source Contributor</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7931E&width=435&lines=Building+scalable+features+that+matter;Passionate+about+clean+code+and+automation;Contributor+to+developer+tools+ecosystem" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🙋‍♀️ About Me
