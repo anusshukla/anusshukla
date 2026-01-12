@@ -8,7 +8,7 @@
 ### 🙋‍♀️ About Me
 
 - 💼 Software Engineer at **Red Hat**
-- 🏢 Previously at **Freshworks** – reduced API response times from 10 minutes to milliseconds, implemented hierarchical article structures, built an Email Bot, and automated localization via GitHub–Crowdin integration
+- 🏢 Previously at **Freshworks** – reduced API response times from 5 minutes to milliseconds, implemented hierarchical article structures, built an Email Bot, and automated localization via GitHub–Crowdin integration
 - 💡 Passionate about building developer tools, integrating Gen AI, and writing clean, maintainable code
 - 🌱 Currently exploring: Vue 3, Vite, PyTorch, RAG (Retrieval-Augmented Generation), and advanced TypeScript
 - 🌍 Languages: Python, Ruby, JavaScript, TypeScript
